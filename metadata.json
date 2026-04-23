@@ -1,0 +1,6 @@
+{
+  "name": "DocManager",
+  "description": "A modern, responsive personal document management dashboard with drag-and-drop upload, categorization, search, and bulk export features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
