@@ -1,6 +1,6 @@
 {
-  "name": "DocManager",
-  "description": "A modern, responsive personal document management dashboard with drag-and-drop upload, categorization, search, and bulk export features.",
+  "name": "DocManager - Secure Digital Document Locker",
+  "description": "Securely store, organize and export your personal documents like ID cards, marksheets, and medical records in a private digital locker with advanced search.",
   "requestFramePermissions": [],
   "majorCapabilities": []
 }
